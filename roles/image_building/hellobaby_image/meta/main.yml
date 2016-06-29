@@ -1,2 +1,3 @@
 dependencies:
-  - angstwad.docker_ubuntu
+  #- angstwad.docker_ubuntu
+  - docker.ubuntu
